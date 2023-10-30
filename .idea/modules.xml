@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/automatically_modify.iml" filepath="$PROJECT_DIR$/automatically_modify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/automatically_modify_android.iml" filepath="$PROJECT_DIR$/android/automatically_modify_android.iml" />
     </modules>
   </component>
 </project>
